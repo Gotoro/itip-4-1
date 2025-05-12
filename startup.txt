@@ -1,0 +1,13 @@
+# Выполнялось для python 3.13
+
+# Для Windows
+.\itip-4-1\Scripts\activate.ps1
+
+# Для Unix
+./itip-4-1/Scripts/activate
+
+---
+
+pip install -r requirements.txt
+
+python -m ipykernel install --user --name=itip-4-1

@@ -1,0 +1,9 @@
+ipykernel
+jupyterlab
+pandas
+scikit-learn
+xgboost
+joblib
+fastapi
+uvicorn[standard]
+python-multipart
