@@ -1,5 +1,7 @@
 # Выполнялось для python 3.13
 
+python -m venv itip-4-1
+
 # Для Windows
 .\itip-4-1\Scripts\activate.ps1
 
